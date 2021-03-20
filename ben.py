@@ -1,2 +1,0 @@
-print ("ben dep trai") 
-
